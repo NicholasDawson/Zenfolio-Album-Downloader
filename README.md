@@ -1,6 +1,8 @@
 # Zenfolio-Album-Downloader
 A tool to download all images of a Zenfolio album given the url. The tool downloads the highest quality available to a public viewer (images may contain watermarks)
 
+## [Download Python Script](https://github.com/NicholasDawson/Zenfolio-Album-Downloader/raw/master/zenfolio_album_downloader.py "Download")
+
 ## Parameters:
 - Album URL (ex. https://artrichphotography.zenfolio.com/p767865561)
 
